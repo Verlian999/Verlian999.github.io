@@ -1,0 +1,23 @@
+World Wide Web (WWW atau singkatnya Web) adalah suatu ruang informasi di mana
+sumber-sumber daya yang berguna diidentifikasi oleh pengenal global yang disebut Uniform
+Resource Identifier (URI). WWW sering dianggap sama dengan Internet secara keseluruhan,
+walaupun sebenarnya ia hanyalah bagian daripadanya.
+
+
+Hiperteks dilihat dengan sebuah program bernama browser web yang mengambil informasi
+(disebut dokumen atau halaman web) dari server web dan menampilkannya, biasanya di
+sebuah monitor.
+
+Kita lalu dapat mengikuti pranala di setiap halaman untuk pindah ke dokumen
+lain atau bahkan mengirim informasi kembali kepada server untuk berinteraksi dengannya. Ini
+disebut surfing atau "berselancar" dalam bahasa Indonesia. Halaman web biasanya diatur
+dalam koleksi material yang berkaitan yang disebut situs web.
+
+HTTP (HyperText Transfer Protocol) adalah protokol yang dipergunakan untuk mentransfer
+dokumen dalam World Wide Web (WWW). Protokol ini adalah protokol ringan, tidak berstatus
+dan generik yang dapat dipergunakan berbagai macam tipe dokumen.
+
+//style="font-size:40px"//
+
+
+
